@@ -6,13 +6,19 @@ Currently this is incomplete. Once gets caught up feature wise to b1.7.3 (in ter
 How to create mods:
 
 1)Decompile NSSS after adding ModLoader to the jar.
+
 2)Create a mod_(insert mod name here) class in the net.minecraft.src package.
+
 3)Start modding! Some useful tutorials for how ModLoader works can be found on The Zyga's channel such as this one: https://www.youtube.com/watch?v=hprGX28zNlQ.
+
 4)Put all of the classes you modified (in their directories) into a folder.
+
 5)Copy or make a file of the same name of your mod_x class and put it in the root of the folder. This is a janky way of getting ModLoader to read the mod_x class in the /net/minecraft/src folder. NOTE: currently this requires the .class extension, in the future this will change.
+
 6)Compress everything inside the folder and name it as you please.
 
 How to install mods:
 
 Option A: Add the mod to your .minecraft/NSSSmods folder. NOTE: this will only work if the mod edits no base classes.
+
 Option B: Add the mod to the .jar. Using multimc this means clicking the "add to minecraft.jar" button and selecting the mod. Otherwise, locate the .jar and insert the files into it.
