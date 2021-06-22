@@ -3,7 +3,7 @@ A port and expansion of Risugami's ModLoader for b1.7.3 to Not So Seecret Saturd
 
 Currently this is incomplete. Once gets caught up feature wise to b1.7.3 (in terms of methods that are actually relevant to NSSS, the version number will change to v1.0.0 and more API expansions and methods may be added after.
 
-How to create mods:
+HOW TO CREATE MODS:
 
 1)Decompile NSSS after adding ModLoader to the jar.
 
@@ -17,7 +17,7 @@ How to create mods:
 
 6)Compress everything inside the folder and name it as you please.
 
-How to install mods:
+HOW TO INSTALL MODS:
 
 Option A: Add the mod to your .minecraft/NSSSmods folder. NOTE: this will only work if the mod edits no base classes.
 
