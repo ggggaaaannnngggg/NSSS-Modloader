@@ -1,4 +1,7 @@
 # NSSS-Modloader
+
+NOTE: Outdated and unsupported, use the ModLoader port in the NSSS discord instead.
+
 A port and expansion of Risugami's ModLoader for b1.7.3 to Not So Seecret Saturday (https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2916817-the-not-so-seecret-saturday-mod-for-alpha-1-1-2_01). Note that this will not be compatible with b1.7.3 mods, this is intended for mods made specifically for NSSS.
 
 Currently this is incomplete. Once gets caught up feature wise to b1.7.3 (in terms of methods that are actually relevant to NSSS, the version number will change to v1.0.0 and more API expansions and methods may be added after.
